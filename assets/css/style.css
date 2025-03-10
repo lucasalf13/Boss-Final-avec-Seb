@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(192, 187, 187);
+    margin: 0;
+    padding: 0;
+}
+header{
+    text-align: center;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+header img{
+    width: auto;
+    height: auto;
+}
+#list-btn{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(59, 108, 254);
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+#list-btn:hover{
+    background-color: blue;
+}
+h2{
+    text-align: center;
+}
